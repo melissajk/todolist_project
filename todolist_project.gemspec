@@ -5,6 +5,6 @@ Gem::Specification.new do |s|
   s.description = 'This is a simple todo list manager!'
   s.authors     = ['Melissa Kaspshak']
   s.email       = 'myemail@gmail.com'
-  s.homepage    = 'http://example.com/todolist_project'
+  s.homepage    = 'https://github.com/melissajk/todolist_project'
   s.files       = ['lib/todolist_project.rb', 'test/todolist_project_test.rb']
 end
